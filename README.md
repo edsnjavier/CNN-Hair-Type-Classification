@@ -13,5 +13,5 @@ The dataset was provided to us and contains images representing different hair t
 
 ## Repository Overview
 This repository includes:
-- A PDF file summarizing the project
+- A PDF file summarizing the write-up for this project
 - Jupyter Notebooks (.ipynb) with different model versions for experimentation
